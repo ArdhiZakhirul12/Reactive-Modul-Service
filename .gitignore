@@ -1,0 +1,3 @@
+.env
+.env.backup
+resources\lang\en\lang.php

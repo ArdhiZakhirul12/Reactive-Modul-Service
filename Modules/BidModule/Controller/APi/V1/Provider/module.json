@@ -1,0 +1,13 @@
+{
+    "name": "BidModule/Controller/APi/V1/Provider",
+    "alias": "bidmodule/controller/api/v1/provider",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\BidModule/Controller/APi/V1/Provider\\Providers\\BidModule/Controller/APi/V1/ProviderServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

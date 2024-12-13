@@ -1,0 +1,13 @@
+{
+    "name": "CustomRequestController",
+    "alias": "customrequestcontroller",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\CustomRequestController\\Providers\\CustomRequestControllerServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
